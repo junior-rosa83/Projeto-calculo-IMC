@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse projeto eu fiz um projeto que serve para calcular o IMC.
+Nesse projeto as pessoas podem calcular o seu IMC.
 
 ## :memo: Licença
 
